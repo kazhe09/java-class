@@ -8,7 +8,7 @@ class Main{
 
     for (int i = 0; i < marks.length; i++){
 
-         if (marks[i] % 2 == 0){
+        if (marks[i] % 2 == 0){
             System.out.println("Element at index " + i + " is " + marks[i]  + " and it's Even");
         
         }else {
@@ -16,7 +16,7 @@ class Main{
         }
 
             
-        }
+    }
 
     }
 }
